@@ -2,6 +2,8 @@
 
 Professor [Tom Armstrong](http://www.tarmstro.com/), Wheaton College, Spring 2017
 
+Course Site: [http://bit.ly/comp-315](http://bit.ly/comp-315)
+
 #### Meeting Information:
 
 * Meeting Times: MW at 2:00 - 3:20 in SC1349
