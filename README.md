@@ -1,8 +1,8 @@
 # Computer Science 315 - Parallel Algorithms
 
-Professor [Tom Armstrong](http://www.tarmstro.com/), Wheaton College, Spring 2017
-
-Course Site: [http://bit.ly/comp-315](http://bit.ly/comp-315)
+* Professor [Tom Armstrong](http://www.tarmstro.com/), Wheaton College, Spring 2017
+* Course Site: [http://bit.ly/comp-315](http://bit.ly/comp-315)
+* Slack Information: [wheaton315](https://wheaton315.slack.com/signup)
 
 #### Meeting Information:
 
