@@ -29,7 +29,7 @@ Wheaton is committed to ensuring equitable access to programs and services and t
 
  &nbsp; | Meetings | Topic | Assignment Due
 ------------- | ------------- | ------------- | -------------
-01 **W** | 25 Jan | Introduction | N/A
+01 **W** | 25 Jan | Introduction | [Hello, World!](https://classroom.github.com/assignment-invitations/ac0f470eff1bd8fe2410430706b58301)
 02 | 30 Jan & 01 Feb | Functional Programming I | Hartnell
 03 | 06 Feb & 08 Feb | Functional Programming II | Project 2
 04 | 13 Feb & 15 Feb | | Project 3
