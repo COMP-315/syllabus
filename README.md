@@ -33,7 +33,7 @@ Wheaton is committed to ensuring equitable access to programs and services and t
 02 | 30 Jan & 01 Feb | Functional Programming I | [Hartnell](https://classroom.github.com/assignment-invitations/36985bec03c77b144dc9c03e111776e6)
 03 | 06 Feb & 08 Feb | Functional Programming II | [Troughton](https://classroom.github.com/assignment-invitations/3ec4c0dbe269a5747af64d3577e29b36)
 04 | 13 Feb & 15 Feb | Concurrency | [Pertwee](https://classroom.github.com/assignment-invitations/7c04f84f5743c473095816bfc5e74d6c)
-05 | 20 Feb & 22 Feb |Concurrency | Project 4
+05 | 20 Feb & 22 Feb |Concurrency | [Baker](https://classroom.github.com/assignment-invitations/a849a61443cac5615363de5e4a8332f9)
 06 | 27 Feb & 1 Mar | | Project 5
 07 | 06 Mar & 08 Mar | | Project 6
 08 | | **Spring Break** | N/A
